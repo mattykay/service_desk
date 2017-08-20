@@ -8,7 +8,9 @@ This tool is a GUI based script that retrieves Windows device information throug
 
 ## Usage
 
-Simply run the service_desk.ps1 file to initiate the GUI. (A shortcut link was created in real application to hide the powershell window but has not been included in this repo)
+Simply run the service_desk.ps1 file to initiate the GUI. (A shortcut link was created in real application to hide the powershell window but has not been included in this repo).
+
+Enter a device asset number you have the rights to connect to in the top right and press the button of the action you wish to do. (Device can be name if within the same OU, or FQN if within another unit. E.g. "computer1" or "computer2.domain.com")
 
 ## Release Information
 
