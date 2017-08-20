@@ -2,7 +2,7 @@
 
 ## About
 
-This tool is a GUI based script that retrieves Windows device information through Powershell commands (see screenshots below). It was created in my own time and on my own device whilst on a service desk role as part of a graduate rotation. 
+This tool is a GUI based script that retrieves Windows device information through Powershell commands (see screenshots below). It was created in my own time and on my own device whilst on an IT service desk role as part of a graduate rotation inside of a large enterprise. 
 
 ***Feel free to fork and modify this code for your purpose, whilst still adhering to the MIT license***
 
@@ -16,6 +16,8 @@ Simply run the service_desk.ps1 file to initiate the GUI. (A shortcut link was c
 - Branding has been replaced with uglier stock images.
 
 ## Screenshots
+
+***To be added soon***
 
 ![Device Mapped Drives](/screenshots/mappeddrive.jpg?raw=true "Device Mapped Drives")
 
