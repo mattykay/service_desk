@@ -4,13 +4,11 @@
 
 This tool is a GUI based script that retrieves Windows device information through Powershell commands (see screenshots below). It was created in my own time and on my own device whilst on an IT service desk role as part of a graduate rotation inside of a large enterprise. 
 
-***Feel free to fork and modify this code for your purpose, whilst still adhering to the MIT license***
-
 ## Usage
 
-Simply run the service_desk.ps1 file to initiate the GUI. (A shortcut link was created in real application to hide the powershell window but has not been included in this repo).
+Simply run the service_desk.ps1 file to initiate the GUI. (A desktop shortcut link was created in real application to hide the Powershell window when in use but has not been included in this repo).
 
-Enter a device asset number you have the rights to connect to in the top right and press the button of the action you wish to do. (Device can be name if within the same OU, or FQN if within another unit. E.g. "computer1" or "computer2.domain.com")
+Enter a device asset number you have the rights to connect to in the top right and press the button of the action you wish to do. (Device can be name if within the same OU, or FQDN if within another unit. E.g. "computer1" or "computer2.domain.com")
 
 ## Release Information
 
@@ -19,16 +17,16 @@ Enter a device asset number you have the rights to connect to in the top right a
 
 ## Screenshots
 
-***To be added soon***
+![Device Mapped Drives](/screenshots/mappeddrives.png?raw=true "Device Mapped Drives")
 
-![Device Mapped Drives](/screenshots/mappeddrive.jpg?raw=true "Device Mapped Drives")
+![Device Mapped Printers](/screenshots/mappedprinters.png?raw=true "Device Mapped Printers")
 
-![Device Mapped Printers](/screenshots/mappedprinter.jpg?raw=true "Device Mapped Printers")
+![Device Installed Programs](/screenshots/installedprograms.png?raw=true "Device Installed Programs")
 
-![Device Installed Programs](/screenshots/installedprograms.jpg?raw=true "Device Installed Programs")
+![Device Details](/screenshots/assetdetails.png?raw=true "Device Details")
 
-![Device Details](/screenshots/devicedetails.jpg?raw=true "Device Details")
+![Ping Device](/screenshots/pingcomputer.png?raw=true "Ping Device")
 
-![Device Controls](/screenshots/devicecontrols.jpg?raw=true "Device Controls")
+![Reboot Device](/screenshots/rebootdevice.png?raw=true "Reboot Device")
 
-![Asset Details](/screenshots/assetdetails.jpg?raw=true "Asset Details")
+![Asset Details](/screenshots/assetdetails.png?raw=true "Asset Details")
