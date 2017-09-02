@@ -27,7 +27,7 @@ Enter a device asset number you have the rights to connect to in the top right a
 
 ![Asset Details](/screenshots/assetdetails.png?raw=true "Asset Details")
 
-![Reboot Device](/screenshots/rebootdevice.png?raw=true "Reboot Device")
+![Reboot Device](/screenshots/rebootcomputer.png?raw=true "Reboot Device")
 
 ![Ping Device](/screenshots/pingcomputer.png?raw=true "Ping Device")
 
