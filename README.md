@@ -23,7 +23,7 @@ Enter a device asset number you have the rights to connect to in the top right a
 
 ![Device Installed Programs](/screenshots/installedprograms.png?raw=true "Device Installed Programs")
 
-![Device Details](/screenshots/assetdetails.png?raw=true "Device Details")
+![Device Details](/screenshots/computerdetails.png?raw=true "Device Details")
 
 ![Ping Device](/screenshots/pingcomputer.png?raw=true "Ping Device")
 
