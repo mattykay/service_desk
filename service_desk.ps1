@@ -8,7 +8,7 @@
 # Name       : service_desk
 # Author     : Matthew Kalnins
 # Email      : servicedesk@matthewkalnins.com
-# Version    : 0.0.2.0
+# Version    : 0.0.2.1
 #===========================================================================
 
 #===========================================================================
@@ -111,7 +111,7 @@ $WPFComputerDetailsButton.Add_Click({
 })
 
 $WPFAssetDetailsButton.Add_Click({
-    Update-DataGrid -Name $WPFComputerName.Text -GetItem 100 -DataGrid $WPFDataGrid -NoResultsGrid $WPFNoResultsGrid
+    Update-DataGrid -Name $WPFAssetName.Text -GetItem 100 -DataGrid $WPFDataGrid -NoResultsGrid $WPFNoResultsGrid
 })
 
 $WPFUserDetailsButton.Add_Click({
