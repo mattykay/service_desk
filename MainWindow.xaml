@@ -167,12 +167,12 @@
                     <Paragraph>
                         <Run FontWeight="Bold" Text="Service Desk Tool "/>
                         <LineBreak/>
-                        <Run Text="Version 0.0.2.0"/>
+                        <Run Text="Version 0.0.2.1"/>
                     </Paragraph>
                     <Paragraph>
                         <Run Text="Author: Matthew Kalnins"/>
                         <LineBreak/>
-                        <Run Text="For support/feature requests email servicedesk@matthewkalnins.com"/>
+                        <Run Text="Refer https://github.com/mattykay/service_desk"/>
                     </Paragraph>
                     <Paragraph>
                         <Run FontSize="10" Text="Disclaimer: Please note this tool is currently not officially supported. Use at own risk."/>
