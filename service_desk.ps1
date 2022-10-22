@@ -111,7 +111,7 @@ $WPFComputerDetailsButton.Add_Click({
 })
 
 $WPFAssetDetailsButton.Add_Click({
-    Update-DataGrid -Name $WPFAssetName.Text -GetItem 100 -DataGrid $WPFDataGrid -NoResultsGrid $WPFNoResultsGrid
+    Update-DataGrid -Name $WPFComputerName.Text -GetItem 100 -DataGrid $WPFDataGrid -NoResultsGrid $WPFNoResultsGrid
 })
 
 $WPFUserDetailsButton.Add_Click({
